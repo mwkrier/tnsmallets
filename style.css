@@ -1,6 +1,17 @@
 .nav{
     padding: 5px;
-    background-color: silver;
+    background-color: darkblue;
+}
+
+.fontStyle{
+    font-size: 22px;
+    color:white;
+    text-emphasis: bold;
+}
+
+.fontStyle2{
+    color:darkblue;
+    text-emphasis: bold;
 }
 
 .sticky {
@@ -28,4 +39,13 @@
   .scrolltab{
     height:300px;
     overflow:scroll;
+}
+
+.topSpace{
+    margin-top: 25px;
+}
+
+.frameStyle{
+    border: white 2px solid;
+    border-radius: 15px;
 }
